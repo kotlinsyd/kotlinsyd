@@ -10,7 +10,7 @@ My flagship app — a beautiful, free, open-source streaming client for Android 
 
 ## 🔄 About my accounts
 
-I previously developed as [@KotlinJS5](https://github.com/KotlinJS5) (see [KotlinJS5/PulseStream](https://github.com/KotlinJS5/PulseStream)). That account ran into GitHub restrictions, so active development — including the upcoming **Trakt sync** integration for Plavio — continues here on **kotlinsyd**.
+I previously developed under the name KotlinJS5. That account ran into GitHub restrictions, so all active development continues here on **kotlinsyd**.
 
 ## 🛠️ What I use
 
